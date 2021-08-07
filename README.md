@@ -31,12 +31,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
   <img align="left" alt="gabbrieu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabbrieu&count_private=true&show_icons=true&theme=midnight-purple" />
-
-</details>
 
 [instagram]: https://instagram.com/gabbrieu_
 [linkedin]: https://linkedin.com/in/gabbrieu
