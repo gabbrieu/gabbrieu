@@ -33,9 +33,14 @@
 
 :zap: GitHub Stats
 
-  <img align="left" alt="gabbrieu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabbrieu&count_private=true&show_icons=true&theme=midnight-purple" />
+<img align="left" alt="gabbrieu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabbrieu&count_private=true&show_icons=true&theme=midnight-purple" />
 
 [instagram]: https://instagram.com/gabbrieu_
 [linkedin]: https://linkedin.com/in/gabbrieu
+
+<br />
+<br />
+
+:rocket: Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabbrieu&layout=compact)](https://github.com/gabbrieu/github-readme-stats)
