@@ -2,9 +2,9 @@
 
 ## I'm currently a Student and a TypeScript Developer!!
 
-- 🌱 I’m currently learning TypeScript with NestJS! 🤣
+- 🌱 I’m currently working with TypeScript and NestJS and learning Vue.js for my term paper!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and become a better developer
+- 🥅 2021 Goals: Contribute more to Open Source project, learn one frontend framework and become a better developer
 - ⚡ Fun fact: I love to watch animes and movies
 
 ### Connect with me:
