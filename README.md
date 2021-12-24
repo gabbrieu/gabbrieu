@@ -1,8 +1,8 @@
 ### Hi there, I'm Gabriel - aka gabbrieu👋
 
-## I'm currently a Student and a TypeScript Developer!!
+## I'm currently a Computer Engineer and a TypeScript Developer!!
 
-- 🌱 I’m currently working with TypeScript and NestJS and learning Vue.js for my term paper!
+- 🌱 I’m currently working with TypeScript and NestJS and learning Vue.js with Nuxt.js!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source project, learn one frontend framework and become a better developer
 - ⚡ Fun fact: I love to watch animes and movies
