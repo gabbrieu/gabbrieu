@@ -2,9 +2,9 @@
 
 ## I'm currently a Computer Engineer and a TypeScript Developer!!
 
-- 🌱 I’m currently working with TypeScript, NestJS, AWS, Serverless and learning Vue.js with Nuxt.js!
+- 🌱 I’m currently working with TypeScript, NestJS/Node.js, AWS, Serverless and learning Go
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source project, learn one frontend framework and become a better developer
+- 🥅 2023 Goals: Contribute more to Open Source project and learn go
 - ⚡ Fun fact: I love to watch animes and movies
 
 ### Connect with me:
