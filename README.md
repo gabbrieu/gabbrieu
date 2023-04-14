@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working with TypeScript, NestJS/Node.js, AWS, Serverless and learning Go
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source project and learn go
+- 🥅 2023 Goals: Contribute more to Open Source project and learn Go
 - ⚡ Fun fact: I love to watch animes and movies
 
 ### Connect with me:
