@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working with TypeScript, NestJS/Node.js, AWS, Serverless and learning Go
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source project and learn Go
+- 🥅 2024 Goals: Contribute more to Open Source project and learn Go
 - ⚡ Fun fact: I love to watch animes and movies
 
 ### Connect with me:
@@ -35,7 +35,7 @@
 
 :zap: GitHub Stats
 
-<img align="left" alt="gabbrieu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabbrieu&count_private=true&show_icons=true&theme=midnight-purple" />
+<img align="left" alt="gabbrieu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabbrieu&show_icons=true&theme=midnight-purple" />
 
 <br />
 <br />
