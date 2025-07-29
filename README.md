@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source project and learn Go
 - ⚡ Fun fact: I love to watch animes and movies
+- 💻 My professional account is linked in Bio for Git contribution purposes
 
 ### Connect with me:
 
