@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-<img src="https://skillicons.dev/icons?i=git,docker,aws,ts,js,nestjs,nodejs,react,nextjs,postgres,mysql,redis,prisma,jest,adonis,vscode" />
+<img src="https://skillicons.dev/icons?i=git,docker,aws,ts,js,nestjs,nodejs,react,nextjs,postgres,mysql,redis,prisma,jest,adonis,vscode&perline=8" />
 
 
 <br />
